@@ -1,5 +1,10 @@
 # Сон и ты (hm3)
-https://docs.google.com/forms/d/1Xb39YwC7B2BFfsDZij47owAzpp1Qb20jRqKYfEG4t0E/edit
+https://docs.google.com/forms/d/1Xb39YwC7B2BFfsDZij47owAzpp1Qb20jRqKYfEG4t0E/edit 
+***
+ссылка на онлайн таблицу с ответми
+https://docs.google.com/spreadsheets/d/1jDSaTilBGvpIFu1XrWq3JrUZazWBt7lu6lyaDFACpOg/edit#gid=377811068 
+***
+
 
 В моем опросе приняло участие **40 человек**.
 Целью данного опроса было выяснить знают ли респонденты некоторые **факты про сон** и выявить **продолжительность их сна** .
